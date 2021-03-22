@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: Full Stack Web Development
 
-- 📫 How to reach me: phone: +201010145667 - email: slovanky@gmail.com
+- 📫 How to reach me: email: slovanky@gmail.com
 
 - My Works:
 01- https://mymdb-slovanky.netlify.app/
