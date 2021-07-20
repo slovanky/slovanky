@@ -18,4 +18,4 @@ Reading - Writing - Cooking
 08. https://slovanky-js02.netlify.app/
 
 ## My Full-stack Projects
-01. https://greenote-app.herokuapp.com/login (Bootstrap, Node.js)
+01. https://greenote-app.herokuapp.com/ (Bootstrap, Node.js)
