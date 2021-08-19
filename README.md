@@ -8,7 +8,7 @@ HTML5 - CSS3 - Bootstrap - JavaScript - ES6 - JQuery - SASS - React.js - Node.js
 Reading - Writing - Cooking
 
 ## My Front-end Projects
-01. https://mymdb-slovanky.netlify.app/
+01. https://mymdb-slovanky.netlify.app/ (Bootstrap, React.js)
 02. https://unimaster-slovanky.netlify.app/
 03. https://bezel-slovanky.netlify.app/
 04. https://alexsmith-slovanky.netlify.app/
