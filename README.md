@@ -1,11 +1,13 @@
 ## Welcome
-Hello, It's Peter Slovanky, an Egyptian Web developer. Graduated with Bachelors of Music Education (2018). I've worked as a Graphic/Web designer for 4+ years. I am currently studying Full Stack Web Development Course, finished the front-end part (React.js), and started the back-end (Node.js). 
+Hello, It's Peter Slovanky, an Egyptian WEB DEVELOPER (Node.js - React.js). Plus I've worked as a Graphic/Web Designer for 4+ years.
 
 ## Skills
-HTML5 - CSS3 - Bootstrap - JavaScript - ES6 - JQuery - SASS - React.js - Node.js - express.js - Linux - Photoshop - Illustrator - InDesign - MS Word - MS PowerPoint
+01. Web Development (HTML5 - CSS3 - Bootstrap 5 - JavaScript - ES6 - JQuery - SCSS - React.js - Node.js - express.js - MongoDB - MySQL - Linux).
+02. Web Design (Figma - Photoshop).
+03. Graphic Design (Photoshop - Illustrator - InDesign).
 
 ## Interests
-Reading - Writing - Cooking
+Cooking - Reading
 
 ## My Front-end Projects
 01. https://mymdb-slovanky.netlify.app/ (Bootstrap, React.js)
