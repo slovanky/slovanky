@@ -1,4 +1,9 @@
 ## Hi There - :wave: - I'm Peter Slovanky
+- Working as **MERN Stack Web Developer (Freelancer)** for less than 1 year.
+- I've worked as a **Graphic / Web Designer** for +4 years.
+- Reach me: [twitter @slovanky](http://twitter.com/slovanky)
+
+
 Egyptian WEB DEVELOPER (Node.js - React.js). Plus I've worked as a Graphic/Web Designer for 4+ years.
 
 ## Skills
@@ -32,7 +37,7 @@ Egyptian WEB DEVELOPER (Node.js - React.js). Plus I've worked as a Graphic/Web D
 Cooking - Reading
 
 ## My Front-end Projects
-01. https://mymdb-slovanky.netlify.app/ (Bootstrap, React.js)
+01. <a href="https://mymdb-slovanky.netlify.app/" target="_blank">https://mymdb-slovanky.netlify.app/</a> (Bootstrap, React.js)
 02. https://unimaster-slovanky.netlify.app/
 03. https://bezel-slovanky.netlify.app/
 04. https://alexsmith-slovanky.netlify.app/
