@@ -47,4 +47,4 @@
 01. https://greenote-app.herokuapp.com/ (Bootstrap, ejs, Node.js, MongoDB)
 
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=slovanky&repo=slovanky&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=slovanky&repo=slovanky&style=flat-square&countColor=transparent&labelColor=transparent)
