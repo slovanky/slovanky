@@ -1,5 +1,5 @@
 ## Hi There - :wave: - I'm Peter Slovanky
-- Working as :computer: **MERN Stack Web Developer** *(Freelancer)* for less than 1 year.
+- Working as :computer: **MERN Stack Web Developer** *(Freelancer)* for -1 year.
 - I've worked as :art: **Graphic / Web Designer** *(Freelancer)* for +4 years.
 - Reach me :mailbox: : [twitter @slovanky](http://twitter.com/slovanky).
 - Interests: :spaghetti: **Cooking**, :books: **Reading** and :pencil: **Writing**.
