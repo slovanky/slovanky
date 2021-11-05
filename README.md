@@ -1,10 +1,9 @@
 ## Hi There - :wave: - I'm Peter Slovanky
-- Working as **MERN Stack Web Developer (Freelancer)** for less than 1 year.
-- I've worked as a **Graphic / Web Designer** for +4 years.
-- Reach me: [twitter @slovanky](http://twitter.com/slovanky)
+- Working as :computer: **MERN Stack Web Developer** *(Freelancer)* for less than 1 year.
+- I've worked as :art: **Graphic / Web Designer** *(Freelancer)* for +4 years.
+- Reach me :mailbox: : [twitter @slovanky](http://twitter.com/slovanky).
+- Interests: :spaghetti: **Cooking**, :books: **Reading** and :pencil: **Writing**.
 
-
-Egyptian WEB DEVELOPER (Node.js - React.js). Plus I've worked as a Graphic/Web Designer for 4+ years.
 
 ## Skills
 01. **Web Development:**
@@ -33,11 +32,9 @@ Egyptian WEB DEVELOPER (Node.js - React.js). Plus I've worked as a Graphic/Web D
 ![Illustrator](https://img.shields.io/badge/Illustrator-F67B2B?style=flat-square&logo=adobe%20illustrator&logoColor=62341D)
 ![InDesign](https://img.shields.io/badge/InDesign-E749A0?style=flat-square&logo=Adobe%20InDesign&logoColor=62341D)
 
-## Interests
-Cooking - Reading
 
 ## My Front-end Projects
-01. <a href="https://mymdb-slovanky.netlify.app/" target="_blank">https://mymdb-slovanky.netlify.app/</a> (Bootstrap, React.js)
+01. https://mymdb-slovanky.netlify.app/ (Bootstrap, React.js)
 02. https://unimaster-slovanky.netlify.app/
 03. https://bezel-slovanky.netlify.app/
 04. https://alexsmith-slovanky.netlify.app/
@@ -47,4 +44,4 @@ Cooking - Reading
 08. https://slovanky-js02.netlify.app/
 
 ## My Full-stack Projects
-01. https://greenote-app.herokuapp.com/ (Bootstrap, Node.js, MongoDB)
+01. https://greenote-app.herokuapp.com/ (Bootstrap, ejs, Node.js, MongoDB)
