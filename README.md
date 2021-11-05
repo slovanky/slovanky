@@ -22,7 +22,7 @@ Egyptian WEB DEVELOPER (Node.js - React.js). Plus I've worked as a Graphic/Web D
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-00a4e4?style=flat-square&logo=Adobe-Photoshop&logoColor=001d26)
 
-4. **Graphic Design:**
+03. **Graphic Design:**
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-00a4e4?style=flat-square&logo=Adobe-Photoshop&logoColor=001d26)
 ![Illustrator](https://img.shields.io/badge/Illustrator-F67B2B?style=flat-square&logo=adobe%20illustrator&logoColor=62341D)
