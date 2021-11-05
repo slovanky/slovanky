@@ -2,7 +2,7 @@
 - Working as :computer: **MERN Stack Web Developer** *(Freelancer)* for -1 year.
 - I've worked as :art: **Graphic / Web Designer** *(Freelancer)* for +4 years.
 - Reach me :mailbox: : [twitter @slovanky](http://twitter.com/slovanky).
-- Interests: :spaghetti: **Cooking**, :books: **Reading** and :pencil: **Writing**.
+- Interests: :spaghetti: **Cooking** - :books: **Reading** - :pencil: **Writing**.
 
 
 ## Skills
