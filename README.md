@@ -1,8 +1,8 @@
-## Welcome
+## Hi T
 Hello, It's Peter Slovanky, an Egyptian WEB DEVELOPER (Node.js - React.js). Plus I've worked as a Graphic/Web Designer for 4+ years.
 
 ## Skills
-01. Web Development (HTML5 - CSS3 - Bootstrap 5 - JavaScript - ES6 - JQuery - SCSS - React.js - Node.js - express.js - MongoDB - MySQL - Linux).
+01. Web Development (HTML5 - CSS3 - Bootstrap5 - JavaScript - ES6 - JQuery - SCSS - React.js - Node.js - Express.js - MongoDB - MySQL - Linux).
 02. Web Design (Figma - Photoshop).
 03. Graphic Design (Photoshop - Illustrator - InDesign).
 
