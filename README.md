@@ -2,7 +2,7 @@
 Egyptian WEB DEVELOPER (Node.js - React.js). Plus I've worked as a Graphic/Web Designer for 4+ years.
 
 ## Skills
-01. Web Development:
+01. **Web Development:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -16,12 +16,12 @@ Egyptian WEB DEVELOPER (Node.js - React.js). Plus I've worked as a Graphic/Web D
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
-02. Web Design:
+02. **Web Design:**
 
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 
-4. Graphic Design:
+4. **Graphic Design:**
 
 ![](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
