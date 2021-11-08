@@ -36,8 +36,8 @@
 ## My Front-end Projects
 01. https://mymdb-slovanky.netlify.app/ (Bootstrap, React.js)
 02. https://unimaster-slovanky.netlify.app/
-03. https://slovanky.github.io/bezel/
-04. https://slovanky.github.io/alex/
+03. https://slovanky.github.io/portfolio/bezel/
+04. https://slovanky.github.io/portfolio/alex/
 05. https://slovanky-proj02.netlify.app/
 06. https://slovanky-proj04.netlify.app/
 07. https://slovanky-js01.netlify.app/
