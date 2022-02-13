@@ -29,6 +29,12 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-F67B2B?style=flat-square&logo=adobe%20illustrator&logoColor=62341D)
 ![InDesign](https://img.shields.io/badge/InDesign-E749A0?style=flat-square&logo=Adobe%20InDesign&logoColor=62341D)
 
+- **Currently Learning:**
+
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+
 
 ## My Front-end Projects
 01. https://mymdb-slovanky.netlify.app/ (Bootstrap, React.js)
