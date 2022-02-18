@@ -38,13 +38,15 @@
 
 ## My Front-end Projects
 
-01. https://unimaster-slovanky.netlify.app/
-02. https://slovanky.github.io/portfolio/bezel/
-03. https://slovanky.github.io/portfolio/alex/
-04. https://slovanky-proj02.netlify.app/
-05. https://slovanky-proj04.netlify.app/
-06. https://slovanky-js01.netlify.app/
-07. https://slovanky-js02.netlify.app/
+01. https://minichat.slovanky.com/ (Vue.JS - TailwindCSS - Firebase)
+
+02. https://unimaster-slovanky.netlify.app/
+03. https://slovanky.github.io/portfolio/bezel/
+04. https://slovanky.github.io/portfolio/alex/
+05. https://slovanky-proj02.netlify.app/
+06. https://slovanky-proj04.netlify.app/
+07. https://slovanky-js01.netlify.app/
+08. https://slovanky-js02.netlify.app/
 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=slovanky&repo=slovanky&style=flat-square&countColor=transparent&labelColor=transparent)
