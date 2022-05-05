@@ -38,7 +38,7 @@
 
 01. https://smdb.slovanky.com/ ( 75% Completed ) ( VueJS - TailwindCSS - Firebase )
 
-![](./img/smdb-screenshot.png)
+![](./img/smdb-screen-1.png)
 
 02. https://unimaster-slovanky.netlify.app/
 03. https://slovanky.github.io/portfolio/bezel/
