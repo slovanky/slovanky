@@ -36,7 +36,7 @@
 
 ## My Front-end Projects
 
-01. https://smdb.slovanky.com/ ( 75% Completed ) ( VueJS - TailwindCSS - Firebase )
+01. https://smdb.slovanky.com/ ( 75% Completed ) ( VueJS - TailwindCSS - TMDB API - Firebase )
 
 ![](./img/smdb-screen-1.png)
 ![](./img/smdb-screen-2.png)
