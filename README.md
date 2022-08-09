@@ -45,13 +45,14 @@
 
 ![](./img/minichat-screen-1.png)
 
-03. https://unimaster-slovanky.netlify.app/
-04. https://slovanky.github.io/portfolio/bezel/
-05. https://slovanky.github.io/portfolio/alex/
-06. https://slovanky-proj02.netlify.app/
-07. https://slovanky-proj04.netlify.app/
-08. https://slovanky-js01.netlify.app/
-09. https://slovanky-js02.netlify.app/
+03. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
+04. https://unimaster-slovanky.netlify.app/
+05. https://slovanky.github.io/portfolio/bezel/
+06. https://slovanky.github.io/portfolio/alex/
+07. https://slovanky-proj02.netlify.app/
+08. https://slovanky-proj04.netlify.app/
+09. https://slovanky-js01.netlify.app/
+10. https://slovanky-js02.netlify.app/
 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=slovanky&repo=slovanky&style=flat-square&countColor=transparent&labelColor=transparent)
