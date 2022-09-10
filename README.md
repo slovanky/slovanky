@@ -38,8 +38,8 @@
 | Project details | Screenshot |
 | :------------- | :------------- |
 | 1. __Youtube Clone__ <br/><br/> Live preview: <br/> https://ytclone.slovanky.com/ <br/><br/> Using: <br/> `ReactJS` <br> `TailwindCSS` <br/> `RapidAPI` | ![ytclone_desktop](https://user-images.githubusercontent.com/32720865/189469702-a16317c6-2395-4933-8d1f-78adfe155c26.png) |
-| 2. __SMDB__ <br/><br/> Live preview: <br/> https://smdb.slovanky.com/ <br/><br/> Using: <br/> • `VueJS` <br/> • `TailwindCSS` <br/> • `TMDB API` | ![smdb_desktop](https://user-images.githubusercontent.com/32720865/189470078-a74d52ab-a4bf-4138-a75e-cb5169271aef.png) |
-| 3. __MiniChat__ <br/><br/>live preview: <br/> https://minichat.slovanky.com/ <br/><br/> Using: <br/> • `VueJS` <br/> • `TailwindCSS` <br/> • `Firebase` | ![minichat_desktop](https://user-images.githubusercontent.com/32720865/189470103-527a3cc4-4b81-4c05-b377-250e936ffaee.png) |
+| 2. __SMDB__ <br/><br/> Live preview: <br/> https://smdb.slovanky.com/ <br/><br/> Using: <br/> `VueJS` <br/> `TailwindCSS` <br/> `TMDB API` | ![smdb_desktop](https://user-images.githubusercontent.com/32720865/189470078-a74d52ab-a4bf-4138-a75e-cb5169271aef.png) |
+| 3. __MiniChat__ <br/><br/>live preview: <br/> https://minichat.slovanky.com/ <br/><br/> Using: <br/> `VueJS` <br/> `TailwindCSS` <br/> `Firebase` | ![minichat_desktop](https://user-images.githubusercontent.com/32720865/189470103-527a3cc4-4b81-4c05-b377-250e936ffaee.png) |
 
 
 4. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
