@@ -36,14 +36,10 @@
 
 ## My Front-end Projects
 
-01. https://smdb.slovanky.com/ ( VueJS - TailwindCSS - TMDB API )
-
-![](./img/smdb-screen-1.png)
-![](./img/smdb-screen-2.png)
-
-02. https://minichat.slovanky.com/ ( VueJS - TailwindCSS - Firebase )
-
-![](./img/minichat-screen-1.png)
+| Project details | Screenshot |
+| ------------- | ------------- |
+| live preview: <br/> https://smdb.slovanky.com/ <br/> <ul> <li>VueJS</li> <li>TailwindCSS</li> <li>TMDB API</li> </ul> | ![](./img/smdb-screen-1.png) |
+| live preview: <br/> https://minichat.slovanky.com/ <br/> ( VueJS - TailwindCSS - Firebase ) | ![](./img/minichat-screen-1.png) |
 
 03. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
 04. https://unimaster-slovanky.netlify.app/
