@@ -1,5 +1,4 @@
 ## Hi There - :wave: - I'm Peter Magdy (Slovanky)
-- 
 
 
 ## Skills
@@ -34,21 +33,24 @@
 ![InDesign](https://img.shields.io/badge/InDesign-E749A0?style=flat-square&logo=Adobe%20InDesign&logoColor=62341D)
 
 
-## My Front-end Projects
+## My Projects
 
 | Project details | Screenshot |
-| ------------- | ------------- |
-| live preview: <br/> https://smdb.slovanky.com/ <br/> <ul> <li>VueJS</li> <li>TailwindCSS</li> <li>TMDB API</li> </ul> | ![](./img/smdb-screen-1.png) |
-| live preview: <br/> https://minichat.slovanky.com/ <br/> ( VueJS - TailwindCSS - Firebase ) | ![](./img/minichat-screen-1.png) |
+| :------------- | :------------- |
+| 1. __Youtube Clone__ <br/><br/> Live preview: <br/> https://ytclone.slovanky.com/ <br/><br/> Using: <br/> `ReactJS` <br> `TailwindCSS` <br/> `RapidAPI` | ![ytclone_desktop](https://user-images.githubusercontent.com/32720865/189469702-a16317c6-2395-4933-8d1f-78adfe155c26.png) |
+| 2. __SMDB__ <br/><br/> Live preview: <br/> https://smdb.slovanky.com/ <br/><br/> Using: <br/> • `VueJS` <br/> • `TailwindCSS` <br/> • `TMDB API` | ![smdb_desktop](https://user-images.githubusercontent.com/32720865/189470078-a74d52ab-a4bf-4138-a75e-cb5169271aef.png) |
+| 3. __MiniChat__ <br/><br/>live preview: <br/> https://minichat.slovanky.com/ <br/><br/> Using: <br/> • `VueJS` <br/> • `TailwindCSS` <br/> • `Firebase` | ![minichat_desktop](https://user-images.githubusercontent.com/32720865/189470103-527a3cc4-4b81-4c05-b377-250e936ffaee.png) |
 
-03. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
-04. https://unimaster-slovanky.netlify.app/
-05. https://slovanky.github.io/portfolio/bezel/
-06. https://slovanky.github.io/portfolio/alex/
-07. https://slovanky-proj02.netlify.app/
-08. https://slovanky-proj04.netlify.app/
-09. https://slovanky-js01.netlify.app/
-10. https://slovanky-js02.netlify.app/
+
+4. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
+5. https://unimaster-slovanky.netlify.app/
+6. https://slovanky.github.io/portfolio/bezel/
+7. https://slovanky.github.io/portfolio/alex/
+8. https://slovanky-proj02.netlify.app/
+9. https://slovanky-proj04.netlify.app/
+10. https://slovanky-js01.netlify.app/
+11. https://slovanky-js02.netlify.app/
+
 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=slovanky&repo=slovanky&style=flat-square&countColor=transparent&labelColor=transparent)
