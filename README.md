@@ -45,11 +45,9 @@
 
 
 5. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
-5. https://unimaster-slovanky.netlify.app/
 6. https://slovanky.github.io/portfolio/bezel/
 7. https://slovanky.github.io/portfolio/alex/
 8. https://slovanky-proj02.netlify.app/
-9. https://slovanky-proj04.netlify.app/
 10. https://slovanky-js01.netlify.app/
 11. https://slovanky-js02.netlify.app/
 
