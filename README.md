@@ -27,21 +27,16 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-00a4e4?style=flat-square&logo=Adobe-Photoshop&logoColor=001d26)
 
 
-03. **Graphic Design:**
-
-![Photoshop](https://img.shields.io/badge/Photoshop-00a4e4?style=flat-square&logo=Adobe-Photoshop&logoColor=001d26)
-![Illustrator](https://img.shields.io/badge/Illustrator-F67B2B?style=flat-square&logo=adobe%20illustrator&logoColor=62341D)
-![InDesign](https://img.shields.io/badge/InDesign-E749A0?style=flat-square&logo=Adobe%20InDesign&logoColor=62341D)
-
-
 ## My Projects
 
 | Project details | Screenshot |
 | :------------- | :------------- |
-| 1. __Youtube Clone__ <br/><br/> Live preview: <br/> https://ytclone.slovanky.com/ <br/><br/> Using: <br/> `ReactJS` <br> `TailwindCSS` <br/> `RapidAPI` | ![ytclone_desktop](https://user-images.githubusercontent.com/32720865/189469702-a16317c6-2395-4933-8d1f-78adfe155c26.png) |
-| 2. __SMDB__ <br/><br/> Live preview: <br/> https://smdb.slovanky.com/ <br/><br/> Using: <br/> `VueJS` <br/> `TailwindCSS` <br/> `TMDB API` | ![smdb_desktop](https://user-images.githubusercontent.com/32720865/189470078-a74d52ab-a4bf-4138-a75e-cb5169271aef.png) |
-| 3. __MsgCan__ <br/><br/>live preview: <br/> https://msgcan.slovanky.com/ <br/><br/> Using: <br/> `VueJS` <br/> `VueX` <br/> `TailwindCSS` <br/> `Firebase` | ![msgcan_desktop](https://user-images.githubusercontent.com/32720865/189479728-20af0db5-721b-4df8-8ec4-a8e5e39d572f.png) |
-| 4. __MiniChat__ <br/><br/>live preview: <br/> https://minichat.slovanky.com/ <br/><br/> Using: <br/> `VueJS` <br/> `TailwindCSS` <br/> `Firebase` | ![minichat_desktop](https://user-images.githubusercontent.com/32720865/189470103-527a3cc4-4b81-4c05-b377-250e936ffaee.png) |
+| 1. __Royal World Shipping__ <br/><br/> Live preview: <br/> https://rws.slovanky.com/ <br/><br/> Using: <br/> `TypeScript` <br/> `Next.js` <br/> `React.js` <br/> `TailwindCSS` <br/> `Framer Motion` <br/> `Swiper` | ![rws](https://slovanky.com/_ipx/w_640,q_75/%2Fimg%2Frws-screenshot.jpeg) |
+| 2. __Hounter__ <br/><br/> Live preview: <br/> https://hounter.slovanky.com/ <br/><br/> Using: <br/> `TypeScript` <br/> `Next.js` <br/> `React.js` <br/> `TailwindCSS` <br/> `Framer Motion` <br/> `Swiper` <br/> `Axios` | ![hounter](https://github.com/slovanky/slovanky/assets/32720865/4e374bdb-79ff-4087-b85f-5bcdcc5d44b5) |
+| 3. __Youtube Clone__ <br/><br/> Live preview: <br/> https://ytclone.slovanky.com/ <br/><br/> Using: <br/> `ReactJS` <br/> `TailwindCSS` <br/> `RapidAPI` | ![ytclone_desktop](https://user-images.githubusercontent.com/32720865/189469702-a16317c6-2395-4933-8d1f-78adfe155c26.png) |
+| 4. __SMDB__ <br/><br/> Live preview: <br/> https://smdb.slovanky.com/ <br/><br/> Using: <br/> `VueJS` <br/> `TailwindCSS` <br/> `TMDB API` | ![smdb_desktop](https://user-images.githubusercontent.com/32720865/189470078-a74d52ab-a4bf-4138-a75e-cb5169271aef.png) |
+| 5. __MsgCan__ <br/><br/>live preview: <br/> https://msgcan.slovanky.com/ <br/><br/> Using: <br/> `VueJS` <br/> `VueX` <br/> `TailwindCSS` <br/> `Firebase` | ![msgcan_desktop](https://user-images.githubusercontent.com/32720865/189479728-20af0db5-721b-4df8-8ec4-a8e5e39d572f.png) |
+| 6. __MiniChat__ <br/><br/>live preview: <br/> https://minichat.slovanky.com/ <br/><br/> Using: <br/> `VueJS` <br/> `TailwindCSS` <br/> `Firebase` | ![minichat_desktop](https://user-images.githubusercontent.com/32720865/189470103-527a3cc4-4b81-4c05-b377-250e936ffaee.png) |
 
 
 5. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
