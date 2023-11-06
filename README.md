@@ -39,12 +39,12 @@
 | 6. __MiniChat__ <br/><br/>live preview: <br/> https://minichat.slovanky.com/ <br/><br/> Using: <br/> `VueJS` <br/> `TailwindCSS` <br/> `Firebase` | ![minichat_desktop](https://user-images.githubusercontent.com/32720865/189470103-527a3cc4-4b81-4c05-b377-250e936ffaee.png) |
 
 
-5. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
-6. https://slovanky.github.io/portfolio/bezel/
-7. https://slovanky.github.io/portfolio/alex/
-8. https://slovanky-proj02.netlify.app/
-10. https://slovanky-js01.netlify.app/
-11. https://slovanky-js02.netlify.app/
+7. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
+8. https://slovanky.github.io/portfolio/bezel/
+9. https://slovanky.github.io/portfolio/alex/
+10. https://slovanky-proj02.netlify.app/
+11. https://slovanky-js01.netlify.app/
+12. https://slovanky-js02.netlify.app/
 
 
 
