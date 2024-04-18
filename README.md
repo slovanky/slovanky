@@ -1,4 +1,4 @@
-## Hi There - :wave: - I'm Peter Magdy (Slovanky)
+## Hi There - I'm Peter Magdy (Slovanky)
 
 
 ## Skills
@@ -10,7 +10,7 @@
 
 **Web development:**
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap)
 ![My Skills](https://skillicons.dev/icons?i=react,next,redux,vue,nuxt,pinia)
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,wordpress)
 
