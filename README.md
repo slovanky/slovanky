@@ -2,31 +2,23 @@
 
 
 ## Skills
-01. **Web Development:**
+**favorite tech stack/tools:**
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress)
-
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2c312d?style=flat-square&logo=javascript&logoColor=f7df1e)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,figma)
 
 
-1.  **Web Design:**
 
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-00a4e4?style=flat-square&logo=Adobe-Photoshop&logoColor=001d26)
+**Web development:**
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next)
+![My Skills](https://skillicons.dev/icons?i=react,next,redux,vue,nuxt,pinia)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,wordpress)
+
+
+**Web Design:**
+
+![My Skills](https://skillicons.dev/icons?i=figma)
+
 
 
 ## My Projects!
