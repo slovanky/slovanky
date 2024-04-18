@@ -4,6 +4,8 @@
 ## Skills
 01. **Web Development:**
 
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress)
+
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -21,7 +23,7 @@
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white)
 
 
-02. **Web Design:**
+1.  **Web Design:**
 
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-00a4e4?style=flat-square&logo=Adobe-Photoshop&logoColor=001d26)
