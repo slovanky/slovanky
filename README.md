@@ -1,7 +1,6 @@
-## Hi There - I'm Peter Magdy (Slovanky)
+![My Skills](/img/cover.jpeg)
 
 
-## Skills
 **favorite tech stack/tools:**
 
 ![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,figma)
@@ -11,13 +10,16 @@
 **Web development:**
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap)
+
 ![My Skills](https://skillicons.dev/icons?i=react,next,redux,vue,nuxt,pinia)
+
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,wordpress)
 
 
 **Web Design:**
 
 ![My Skills](https://skillicons.dev/icons?i=figma)
+
 
 
 
