@@ -1,7 +1,3 @@
-![My Skills](/img/cover.jpeg)
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="48" />
   <img src="https://skillicons.dev/icons?i=css" height="48" />
