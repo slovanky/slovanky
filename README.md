@@ -33,11 +33,8 @@
 
 
 8. https://shapevoice.slovanky.com/ Landing Page ( TailwindCSS )
-9. https://slovanky.github.io/portfolio/bezel/
-10. https://slovanky.github.io/portfolio/alex/
-11. https://slovanky-proj02.netlify.app/
-12. https://slovanky-js01.netlify.app/
-13. https://slovanky-js02.netlify.app/
+9. https://slovanky-js01.netlify.app/
+10. https://slovanky-js02.netlify.app/
 
 
 
